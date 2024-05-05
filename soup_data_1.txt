@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>The Westside Method Thread - Powerlifting &amp; Strength Sports - COMMUNITY - T NATION</title>
+<meta content="This will not be a pissing contest. Not a place to be an asshole. No one on this site trains at Westside so don’t fucking lie about it. I am starting this because I have a pretty good understanding of the system, have be&amp;hellip;" name="description"/>
+<meta content="Discourse 3.3.0.beta2-dev - https://github.com/discourse/discourse version 21ef033e860ed9c867a5b251021b0331a3b57c8f" name="generator"/>
+<link href="https://global.discourse-cdn.com/tnation/uploads/default/optimized/3X/d/e/debb6861f5c25f0ad647f53fdda2533ff445e213_2_32x32.png" rel="icon" type="image/png"/>
+<link href="https://global.discourse-cdn.com/tnation/uploads/default/optimized/3X/3/0/30895f2011584be97f08ab02bfd4ed0b7bb55287_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
+<meta content="#ffffff" media="all" name="theme-color"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover" name="viewport"/>
+<link href="https://forums.t-nation.com/t/the-westside-method-thread/172488" rel="canonical">
+<link href="https://forums.t-nation.com/opensearch.xml" rel="search" title="COMMUNITY - T NATION Search" type="application/opensearchdescription+xml"/>
+<link class="light-scheme" href="https://sea2.discourse-cdn.com/tnation/stylesheets/color_definitions_t-nation-forums-colors_1_9_11248029cf13d62ebab9721955dc96870b592788.css?__ws=forums.t-nation.com" media="all" rel="stylesheet">
+<link data-target="desktop" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet">
+<link data-target="checklist" href="https://sea2.discourse-cdn.com/tnation/stylesheets/checklist_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-adplugin" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-adplugin_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-akismet" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-akismet_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-cakeday" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-cakeday_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-data-explorer" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-data-explorer_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-details" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-details_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-lazy-videos" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-lazy-videos_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-local-dates" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-local-dates_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-policy" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-policy_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-presence" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-presence_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-solved" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-solved_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-subscriptions" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-subscriptions_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-templates" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-templates_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-topic-voting" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-topic-voting_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-user-notes" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-user-notes_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="footnote" href="https://sea2.discourse-cdn.com/tnation/stylesheets/footnote_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="hosted-site" href="https://sea2.discourse-cdn.com/tnation/stylesheets/hosted-site_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="poll" href="https://sea2.discourse-cdn.com/tnation/stylesheets/poll_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="spoiler-alert" href="https://sea2.discourse-cdn.com/tnation/stylesheets/spoiler-alert_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="discourse-topic-voting_desktop" href="https://sea2.discourse-cdn.com/tnation/stylesheets/discourse-topic-voting_desktop_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="poll_desktop" href="https://sea2.discourse-cdn.com/tnation/stylesheets/poll_desktop_109fad11b510abffd392e3b5dd3fb797f2c3e5f8.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="12" data-theme-name="blog post styling" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_12_61a2a779beae9c19a2067542c1f26f43e2e9f064.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="13" data-theme-name="gated categories for members" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_13_ea26f542bb66915be0cbac8b5008cfac05ee2fe3.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="18" data-theme-name="gated topics for groups" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_18_85a5cc8838e0939f315c59950ceb03d912a93379.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="26" data-theme-name="topic thumbnails" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_26_01a09125bb8dc19ef760967031b9ee930468c1e7.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="24" data-theme-name="blog post timeline control" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_24_f3c9ddc25592b4d920be119f604144e97cb4eb96.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="14" data-theme-name="fonts" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_14_60b62832ef492298bec6bc61d215b41d62d670f0.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="5" data-theme-name="t nation forums" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_5_68d1a88ee08440f6e44924bf625cd59e4d15e5d6.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="6" data-theme-name="uncategorized category" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_6_daef34f4aa8a210aed070ad97293fa56c8433132.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="7" data-theme-name="verified icon" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_7_c7b91a1d398f5a699ef8bf103e8a20d24dd32957.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="9" data-theme-name="default" href="https://sea2.discourse-cdn.com/tnation/stylesheets/desktop_theme_9_1eb0d81afb2f80730e28efeae79270da1b5dcddb.css?__ws=forums.t-nation.com" media="all" rel="stylesheet"/>
+<!-- Klaviyo Active on Site T Nation Forums -->
+<script async="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=cXCDy6" type="text/javascript"></script>
+<!-- OneTrust Cookies Consent Notice start for forums.t-nation.com -->
+<script nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://cdn.cookielaw.org/consent/b79cc346-a9c3-45a7-919c-ed73bfb363db/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="b79cc346-a9c3-45a7-919c-ed73bfb363db" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://cdn.cookielaw.org/consent/b79cc346-a9c3-45a7-919c-ed73bfb363db/otSDKStub.js" type="text/javascript"></script>
+<!-- OneTrust Cookies Consent Notice end for forums.t-nation.com -->
+<script async="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://www.googletagmanager.com/gtag/js?id=G-KKT5Z2MBYT"></script>
+<script nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script crossorigin="anonymous" integrity="sha512-ILhCOhy8ymQsMbul+kZsRny+Egfi0k/iuIaQI3seK6GtMUDvPTnWfy7HFYAUK0YUzJMFOQQkdBhA/yDB6VoPxw==" nonce="K7CXVL8fhonTi2uUF4yucooLz" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/superfish/1.7.3/superfish.min.js"></script>
+<meta content="weo80e181ob9n6nx2l5nmvj3x7dqir" name="facebook-domain-verification"/>
+<script data-theme-id="5" defer="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://sea2.discourse-cdn.com/tnation/theme-javascripts/722675da46a8f403d851a60a1742920df74b554c.js?__ws=forums.t-nation.com"></script>
+<meta data-auto-link-domains="" data-json='{"cookieDomain":"auto"}' data-tracking-code="UA-82085-3" id="data-ga-universal-analytics"/>
+<script async="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://www.googletagmanager.com/gtag/js?id=UA-82085-3"></script>
+<script data-discourse-entrypoint="google-universal-analytics-v4" defer="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://global.discourse-cdn.com/tnation/assets/google-universal-analytics-v4-e154af4adb3c483a3aba7f9a7229b8881cdc5cf369290923d965a2ad30163ae8.gz.js"></script>
+<link href="https://forums.t-nation.com/t/the-westside-method-thread/172488.rss" rel="alternate nofollow" title="RSS feed of 'The Westside Method Thread'" type="application/rss+xml"/>
+<meta content="COMMUNITY - T NATION" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="summary" name="twitter:card">
+<meta content="https://global.discourse-cdn.com/tnation/uploads/default/original/3X/3/0/30895f2011584be97f08ab02bfd4ed0b7bb55287.png" name="twitter:image">
+<meta content="https://global.discourse-cdn.com/tnation/uploads/default/original/3X/3/0/30895f2011584be97f08ab02bfd4ed0b7bb55287.png" property="og:image">
+<meta content="https://forums.t-nation.com/t/the-westside-method-thread/172488" property="og:url">
+<meta content="https://forums.t-nation.com/t/the-westside-method-thread/172488" name="twitter:url">
+<meta content="The Westside Method Thread" property="og:title"/>
+<meta content="The Westside Method Thread" name="twitter:title"/>
+<meta content="This will not be a pissing contest. Not a place to be an asshole. No one on this site trains at Westside so don’t fucking lie about it. I am starting this because I have a pretty good understanding of the system, have been using it with success for the last couple years, and want to help spread the knowledge I have learned to others who want to give it a shot. I truely believe a deeper understanding of the Wesitside Method is key to the program working for the lifter. Feel free to contribute con..." property="og:description"/>
+<meta content="This will not be a pissing contest. Not a place to be an asshole. No one on this site trains at Westside so don’t fucking lie about it. I am starting this because I have a pretty good understanding of the system, have been using it with success for the last couple years, and want to help spread the knowledge I have learned to others who want to give it a shot. I truely believe a deeper understanding of the Wesitside Method is key to the program working for the lifter. Feel free to contribute con..." name="twitter:description"/>
+<meta content="Bigger Stronger Leaner" property="og:article:section"/>
+<meta content="AA0000" property="og:article:section:color"/>
+<meta content="Powerlifting &amp; Strength Sports" property="og:article:section"/>
+<meta content="AA0000" property="og:article:section:color"/>
+<meta name="twitter:label1" value="Reading time"/>
+<meta name="twitter:data1" value="378 mins 🕑"/>
+<meta name="twitter:label2" value="Likes"/>
+<meta name="twitter:data2" value="11 ❤"/>
+<meta content="2011-12-04T03:15:09+00:00" property="article:published_time"/>
+<meta content="true" property="og:ignore_canonical"/>
+<link href="/t/the-westside-method-thread/172488?page=2" rel="next"/>
+</meta></meta></meta></meta></meta></meta></meta></link></link></link></head>
+<body class="crawler">
+<!-- T Nation Header START -->
+<nav class="navbar navbar-expand-lg navbar-dark" id="nav">
+<div class="d-sm-flex mx-auto d-block flex-sm-nowrap nav-container" id="navWrap">
+<a class="navbar-brand" href="https://www.t-nation.com">
+<img alt="T NATION" class="tn-logo-dark" height="40" src="https://cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/tnation/original/4X/7/4/3/7435b90c826da0a164899924c2a76e92e2ff3a0f.svg"/>
+</a>
+<div class="navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav sf-menu" id="mainNav">
+<li class="nav-item DD">
+<a class="nav-link rootLink sf-with-ul hidden-xs" href="https://biotest.t-nation.com">Store</a>
+</li>
+<li class="nav-item DD">
+<a class="nav-link rootLink sf-with-ul hidden-xs" href="https://www.t-nation.com/all-articles/">Content</a>
+</li>
+<li class="nav-item DD">
+<a class="nav-link rootLink sf-with-ul hidden-xs" href="https://forums.t-nation.com">Community</a>
+</li>
+<li class="nav-item DD">
+<a class="nav-link rootLink sf-with-ul" href="https://forums.t-nation.com/c/t-nation-plus/58">T Nation<span>+</span></a>
+<ul class="DD1">
+<li><a href="https://forums.t-nation.com/login">Login</a></li>
+<li><a href="https://forums.t-nation.com/s/prod_NbacDHyXJsrLNv">Learn More</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<!-- T Nation Header END -->
+<header>
+<a href="/">
+    COMMUNITY - T NATION
+  </a>
+</header>
+<div class="wrap" id="main-outlet" role="main">
+<div id="topic-title">
+<h1>
+<a href="/t/the-westside-method-thread/172488">The Westside Method Thread</a>
+</h1>
+<div class="topic-category" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="/c/bigger-stronger-leaner/powerlifting/12" itemprop="item">
+<span class="badge-category-bg" style="background-color: #AA0000"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Bigger Stronger Leaner</span>
+</span>
+</a>
+<meta content="1" itemprop="position"/>
+</span>
+<span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a class="badge-wrapper bullet" href="/c/bigger-stronger-leaner/powerlifting/12" itemprop="item">
+<span class="badge-category-bg" style="background-color: #AA0000"></span>
+<span class="badge-category clear-badge">
+<span class="category-name" itemprop="name">Powerlifting &amp; Strength Sports</span>
+</span>
+</a>
+<meta content="2" itemprop="position"/>
+</span>
+</div>
+</div>
+<div itemscope="" itemtype="http://schema.org/DiscussionForumPosting">
+<meta content="The Westside Method Thread" itemprop="headline"/>
+<link href="https://forums.t-nation.com/t/the-westside-method-thread/172488" itemprop="url"/>
+<meta content="2011-12-04T03:15:09Z" itemprop="datePublished"/>
+<meta content="Powerlifting &amp; Strength Sports" itemprop="articleSection"/>
+<meta content="" itemprop="keywords"/>
+<div itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+<meta content="T Nation LLC" itemprop="name"/>
+</div>
+<div class="topic-body crawler-post" id="post_1">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<link href="https://forums.t-nation.com/t/the-westside-method-thread/172488" itemprop="mainEntityOfPage"/>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T03:15:09Z">
+                    December 4, 2011,  3:15am
+                  </time>
+<meta content="2011-12-04T03:15:09Z" itemprop="dateModified"/>
+<span itemprop="position">1</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>This will not be a pissing contest. Not a place to be an asshole. No one on this site trains at Westside so don’t fucking lie about it. I am starting this because I have a pretty good understanding of the system, have been using it with success for the last couple years, and want to help spread the knowledge I have learned to others who want to give it a shot. I truely believe a deeper understanding of the Wesitside Method is key to the program working for the lifter. Feel free to contribute constructive information.</p>
+<p>There are a million other threads to post about Sheiko, 5/3/1, Dick Bob’s 5x27, and all of the other programs out there so keep that shit out of here.</p>
+<p>I am no expert. I am an intermediate as far as training experience. I have very little experience training at Westside. What I am is a fucking nerd when it comes to this stuff. It will not be exactly what they do there but it will be pretty close. So, lets start very, very basic and take it from there.</p>
+<p>Periodization. For Westside, it is not just maxing out and speed work every week. During some time periods of the year it is, but not most of the year. There are three VERY distinct blocks of training. Keep in mind, boiled down, all that needs to improve is GPP, Absolute Strength, and explosive strength for the squat, bench, and deadlift.</p>
+<p>Accumulation Block= at least 2 weeks. Shouldnt need a deload.</p>
+<p>Dynamic work is extremely high volume, limited accomodated resistance, limited gear, short rests, lower weights, and varied week to week. Personally, I like to do 20+ sets for time and try to beat that time from week to week. I also like to switch the box height, bar, and foot position every week during this block. Bar speed, as for all dynamic work, should be as fast as you can possibly move on every set. This is meant to build some muscle, increase GPP, and get the body ready for the abuse that is to follow. 50% on all lifts works well. Go higher if you really hate yourself. 20+minutes of 50+ squats with 60%+ of your max does not make for comfortable pooping position for a couple days.</p>
+<p>Max Efforts are more like Heavy Efforts for this block. Singles can be done but don’t go to failure. 3-5rms would be best.</p>
+<p>Repeated Efforts will vary from person to person. This block is technically an “offseason.” Take this time to correct imbalances, gain some size in needed areas, increase mobility, and, most importantly, recover from the previous meet. These exercises should be very dense (a lot of work in a short period of time) and very general (not variations of the main lifts). In later posts, I will share some protocols that have worked well with me.</p>
+<p>Itensification= 3 weeks on/1 week deload</p>
+<p>Dynamic Efforts are typical speed strength, strength speed cycles. Even circa max cycles if you are strong enough. Use tons of bands, chains, dead baby skulls, whatever the hell you want attached to the bar. There is so much shit on the internet about this block that I don’t see the point in posting anymore about it. Start slowing using lots of gear if competing that way.</p>
+<p>Max Efforts are for singles. Relative training intensities and volumes are at there highest in this block, so use all the bands and chains you want. Try to work up to a true max for the day (i.e. don’t make huge jumps in weight like a dumbass) failing is ok but try not to do it. Try to figure out what exercises actuslly contribute to your competition lifts. No one gives a shit about how much you above the knees rack pull. Try to figure out what makes bigger lifts in a meet and work the hell out of that.</p>
+<p>Repeated Efforts are still dense but less general. Start using barbell exercises, start establishing 6rm+ max’s on lifts (this will keep you under 90%), and use smaller assistance work only on weaknesses (like if you cant keep your shoulder blades tight on bench, do a shitload of face pulls, seated DB powercleans, wahtever. Be honest with yourself and work on the stuff you suck at).</p>
+<p>Transformation= 2 weeks. or 1 week. or 3 weeks.</p>
+<p>Dynamic Efforts- drop bands and chains. Lose the box if you are competing raw. Start getting ready for the meet so use power bars, use all of the gear you are going to use in the meet, and get your technique dialed in.</p>
+<p>2 weeks out: work up to 90% of an all time best<br/>
+1 week out (week of the meet): 50% for a couple speed sets… I like to do at least 6 sets.</p>
+<p>Max Efforts are toned down. Still do singles just don’t fail and dont work up to true max’s. Personally, I like to work up to about 75% and work on technique and speed for a few sets of singles.</p>
+<p>Repeated Efforts will vary from person to person. I like to do heavy rep work the week of the meet. I know very strong people who don’t do a damn thing all week. Whatever. You need to figure out what works for you.</p>
+<p>Ok, general outline complete. Feel free to contribute your Westside System experience or ask any specific questions you may have. I, and I’m sure anyone else in the know, will be more than happy to answer. Just keep in mind the original statements and don’t be an internet butt head.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="1" itemprop="userInteractionCount">
+<span class="post-likes">1 Like</span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+<div class="crawler-linkback-list" itemscope="" itemtype="http://schema.org/ItemList">
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/picking-periodization-or-program/213932/4" itemprop="url">Picking Periodization or Program</a>
+<meta content="1" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/how-can-i-increase-max-bench-deadlift-and-push-strict-press/216705/12" itemprop="url">How Can I Increase Max Bench, Deadlift and Push/Strict Press?</a>
+<meta content="2" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/rate-my-program/220663/2" itemprop="url">Rate My Program</a>
+<meta content="3" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/justifying-my-name/214997" itemprop="url">Justifying My Name</a>
+<meta content="4" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/speed-bench-day-westside-method/196269/9" itemprop="url">Speed Bench Day, Westside Method</a>
+<meta content="5" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/restructuring-my-powerbuilding-program/280961/14" itemprop="url">Restructuring my Powerbuilding Program</a>
+<meta content="6" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/great-powerlifters-routines/196595/123" itemprop="url">Great Powerlifter's Routines</a>
+<meta content="7" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/westside-method-overloading-partials/230918/6" itemprop="url">Westside Method – Overloading Partials?</a>
+<meta content="8" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/from-bodybuilding-to-raw-lifter-with-the-conjugate-method/231446/33" itemprop="url">From Bodybuilding to Raw Lifter with the Conjugate Method</a>
+<meta content="9" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/beating-prs-keeping-it-safe/195700/3" itemprop="url">Beating PRs &amp; Keeping It Safe</a>
+<meta content="10" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/deadlift-and-squat-program/191255/12" itemprop="url">Deadlift and Squat Program</a>
+<meta content="11" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/doing-westside-method-naturally/219780/7" itemprop="url">Doing Westside Method Naturally</a>
+<meta content="12" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/struggling-on-squats/179839/4" itemprop="url">Struggling on Squats</a>
+<meta content="13" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/evaluate-my-westside-barbell-program/201518/3" itemprop="url">Evaluate My Westside Barbell Program</a>
+<meta content="14" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/best-t-nation-topics/267396/5" itemprop="url">‘Best’ T-Nation Topics</a>
+<meta content="15" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/the-westside-method-thread-ii/176908/526" itemprop="url">The Westside Method Thread II</a>
+<meta content="16" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/fletchs-new-log/200124/94" itemprop="url">Fletch's New Log</a>
+<meta content="17" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/dan-johns-advice-on-adding-muscle/211270/4" itemprop="url">Dan John's Advice on Adding Muscle</a>
+<meta content="18" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/conventional-flat-bench-as-a-me-exercise/172600/6" itemprop="url">Conventional Flat Bench as a ME Exercise?</a>
+<meta content="19" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/time-for-westside-training/195064/8" itemprop="url">Time for Westside Training?</a>
+<meta content="20" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/my-mind-is-boggled-how-does-the-conjugate-system-work-so-well/278457/3" itemprop="url">My Mind Is Boggled - How Does the Conjugate System Work so Well?</a>
+<meta content="21" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/clockin-a-grip/215284/2483" itemprop="url">Clockin' A Grip</a>
+<meta content="22" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/rep-changes-in-conjugate/178156/4" itemprop="url">Rep Changes in Conjugate</a>
+<meta content="23" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/conjugate-training-bands-chains-speed-work-for-raw-lifters/267281/4" itemprop="url">Conjugate Training: Bands/Chains? Speed Work for Raw Lifters?</a>
+<meta content="24" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/stronglifts-or-ws4sb/194725/16" itemprop="url">Stronglifts or WS4SB</a>
+<meta content="25" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/westside-makes-you-sexy-er/168724/710" itemprop="url">Westside Makes You Sexy(er)</a>
+<meta content="26" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/pendlay-on-simmons/195270/86" itemprop="url">Pendlay on Simmons</a>
+<meta content="27" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/18m-61/213039/4" itemprop="url">18M. 6'1</a>
+<meta content="28" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/im-just-a-youngn/183413/4" itemprop="url">I'm Just a Young'n!</a>
+<meta content="29" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/westside-template/192138/5" itemprop="url">Westside Template?</a>
+<meta content="30" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/pendlay-on-simmons/195270/85" itemprop="url">Pendlay on Simmons</a>
+<meta content="31" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/pendlay-on-simmons/195270/82" itemprop="url">Pendlay on Simmons</a>
+<meta content="32" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/stronglifts-or-ws4sb/194725/18" itemprop="url">Stronglifts or WS4SB</a>
+<meta content="33" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/deadlift-training/183552/2" itemprop="url">Deadlift Training</a>
+<meta content="34" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/critique-my-conjugate/222696/4" itemprop="url">Critique My Conjugate</a>
+<meta content="35" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/my-modified-bulgarian-program/193782/3" itemprop="url">My Modified Bulgarian Program</a>
+<meta content="36" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/fletchs-new-log/200124/99" itemprop="url">Fletch's New Log</a>
+<meta content="37" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/evaluate-my-westside-barbell-program/201518/4" itemprop="url">Evaluate My Westside Barbell Program</a>
+<meta content="38" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/training-plan-help-for-moderately-advanced-lifter/226386/7" itemprop="url">Training Plan Help for Moderately Advanced Lifter</a>
+<meta content="39" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/periodization-question/220707/8" itemprop="url">Periodization Question</a>
+<meta content="40" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/westside-beginner/181219/2" itemprop="url">Westside Beginner</a>
+<meta content="41" itemprop="position"/>
+</div>
+<div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="https://forums.t-nation.com/t/the-westside-method-thread-ii/176908/2" itemprop="url">The Westside Method Thread II</a>
+<meta content="42" itemprop="position"/>
+</div>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_2" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/GruntOrama" itemprop="url"><span itemprop="name">GruntOrama</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T03:47:28Z" itemprop="datePublished">
+                    December 4, 2011,  3:47am
+                  </time>
+<meta content="2011-12-04T03:47:28Z" itemprop="dateModified"/>
+<span itemprop="position">2</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>So for those out there who don’t have a meet planned, or never plan on doing one, they would basically be in the accumulation phase all year?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_3" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T03:49:20Z" itemprop="datePublished">
+                    December 4, 2011,  3:49am
+                  </time>
+<meta content="2011-12-04T03:49:20Z" itemprop="dateModified"/>
+<span itemprop="position">3</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]GruntOrama wrote:<br/>
+So for those out there who don’t have a meet planned, or never plan on doing one, they would basically be in the accumulation phase all year?[/quote]</p>
+<p>More like switching back and forth between the accumulation and the intensification blocks over and over. The accumulation block is the base. The intensification block is the strength and coordination for heavier weights.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="1" itemprop="userInteractionCount">
+<span class="post-likes">1 Like</span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_4" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/pbclax1" itemprop="url"><span itemprop="name">pbclax1</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T04:26:05Z" itemprop="datePublished">
+                    December 4, 2011,  4:26am
+                  </time>
+<meta content="2011-12-04T04:26:05Z" itemprop="dateModified"/>
+<span itemprop="position">4</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>This thread is awesome! Thanks STB!</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_5" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/pk0ad" itemprop="url"><span itemprop="name">pk0ad</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T05:29:08Z" itemprop="datePublished">
+                    December 4, 2011,  5:29am
+                  </time>
+<meta content="2011-12-04T05:29:08Z" itemprop="dateModified"/>
+<span itemprop="position">5</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>These are all sort of the same question:</p>
+<p>At what levels of strength/experience do you think this method is most useful?</p>
+<p>How would a less experienced lifter apply this method as opposed to a more advanced one?</p>
+<p>Do you have lifters new to the method jump straight into an accumulation block, or do you expect them to complete some kind of remedial block beforehand to get ready for the program (I’m thinking about the old Dave Tate article where the guy spent 4 months working on technique and accessory lifts before starting his “real” program)?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_6" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/spar4tee" itemprop="url"><span itemprop="name">spar4tee</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T07:04:27Z" itemprop="datePublished">
+                    December 4, 2011,  7:04am
+                  </time>
+<meta content="2011-12-04T07:04:27Z" itemprop="dateModified"/>
+<span itemprop="position">6</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]pbclax1 wrote:<br/>
+This thread is awesome! Thanks STB![/quote]<br/>
+x2 really appreciate it</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_7" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/Fletch1986" itemprop="url"><span itemprop="name">Fletch1986</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T07:34:05Z" itemprop="datePublished">
+                    December 4, 2011,  7:34am
+                  </time>
+<meta content="2011-12-04T07:34:05Z" itemprop="dateModified"/>
+<span itemprop="position">7</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>Are there certain guidelines to the deloads on the intensification phase?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_8" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/Diluted56" itemprop="url"><span itemprop="name">Diluted56</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T11:18:06Z" itemprop="datePublished">
+                    December 4, 2011, 11:18am
+                  </time>
+<meta content="2011-12-04T11:18:06Z" itemprop="dateModified"/>
+<span itemprop="position">8</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>Hey Storm thanks for the post! Really informative!<br/>
+A question, how do you handle assistance and supplemental work?<br/>
+Do you go by feel moreon a auto-regulation type of framework, like for instance do a certain exercise for a while on a weakness then when you see ts improved you jumpto the next one and so forth? Or do you have a strict plan in terms of varying overall volume and intensities?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_9" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T12:23:13Z" itemprop="datePublished">
+                    December 4, 2011, 12:23pm
+                  </time>
+<meta content="2011-12-04T12:23:13Z" itemprop="dateModified"/>
+<span itemprop="position">9</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]pk0ad wrote:<br/>
+These are all sort of the same question:</p>
+<p>At what levels of strength/experience do you think this method is most useful?</p>
+<p>How would a less experienced lifter apply this method as opposed to a more advanced one?</p>
+<p>Do you have lifters new to the method jump straight into an accumulation block, or do you expect them to complete some kind of remedial block beforehand to get ready for the program (I’m thinking about the old Dave Tate article where the guy spent 4 months working on technique and accessory lifts before starting his “real” program)?[/quote]</p>
+<p>The answer to this is one of the big reasons why I really like Westside. You work on technique all the time. The dynaimc effort workouts are always going to be high volumes of squats, benches, and deadlifts. During the Accumulation phase, you have the opportunity to do 20-30 minutes of squatting for 50+ reps. Half of those reps being first reps, so you also get to work on your set-up 25 times. You can’t go into these workouts just looking to get them done, you go in looking to improve on something you suck at.</p>
+<p>Also, this is were extra workouts kick ass. I will use squatting again, say you want to work on technique, have no strength out of the hole, and something in your hips is sore. If you are training smart you can structure an extra workout that would look something like this:</p>
+<p>The day after a ME or DE squat workout:<br/>
+-Band tractions, soft tissue work, and hip mobility for 5 - 10 minutes<br/>
+-Load a bar with 20-30% of ther weight you used the previous day (This is kinda the Rule of 60%, but I like to drop it lower after ME workouts). Either do a dyanmic workout, 10-20 sets of 3, or shoot for 100 reps in a short a time as possble with good form.<br/>
+-Some glute/oblique work for the bottom end weakness if those are your issues</p>
+<p>As far as what a new lifter should do:</p>
+<p>The accumulation phase should make up most of the training. Increasing GPP and ensuring good technique under heavy weights early on is key to surviving in the sport for a few years. So, if there were 8 weeks until a meet, a beginner program would look something like this:</p>
+<p>5 weeks of accumulation<br/>
+2 weeks of intensification<br/>
+1 week tranformation</p>
+<p>Does that make sense?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_10" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T12:45:43Z" itemprop="datePublished">
+                    December 4, 2011, 12:45pm
+                  </time>
+<meta content="2011-12-04T12:45:43Z" itemprop="dateModified"/>
+<span itemprop="position">10</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]Fletch1986 wrote:<br/>
+Are there certain guidelines to the deloads on the intensification phase?[/quote]</p>
+<p>A “deload” in this system is a little different for everyone. Technically a dealod is just a reduction in volume and/or intensity for a period of time. In true conjugate training, deloads are structured to be at their highest volumes and intensities when competition nears. Most of the time it looks like this:</p>
+<p>3 weeks of concentrated loading<br/>
+1 week of 50% deaload in bar weight<br/>
+3 weeks of concentrated loading<br/>
+1 week of 40% deload in bar wieght</p>
+<p>So that second deload is handling weights around 60% of max, while the first one was at 50%. I have read some programming books that recommend 2 week deloads that seem more complicated than the actual training. Personally, I hate using too many numbers and guidlines because all it does is complicate the hell out of things and make me feel like shit when the weights don’t feel right.</p>
+<p>I would suggest an easier approach:</p>
+<p>Deload Max Effort Upper Body Workouts look something like this:</p>
+<p>Either:<br/>
+Grab a heavy set of dumbbells and do two sets to near failure then a third set to failure. Rest 5 minutes between sets and murder yourself on the last one. Keep track of rep records for all three sets with different weights, as these go up, so does your bench. So, say you take the 135lb dumbbells and do three sets: 12, 10, and the last set to squeeze out 9 reps. This comes out to 31 total reps. Next time you do this, try to get at least 32.</p>
+<p>or:<br/>
+Do lightened dynamic work.</p>
+<p>Repeated efforts this day will be the same, just knock a couple sets off whatever you had planned or drop the weight A LOT.</p>
+<p>Deload Max Effort Lower Body:</p>
+<p>Drag a heavy sled for a while</p>
+<p>or:<br/>
+Do lightened dynamic work.</p>
+<p>For Dynamic Efforts, drop the bands and return to your week 1 bar weight of whatever pednulum wave you were previously in (i.e. Week 1 might have been speed-strength, so 55% bar weight and 25% in band tension for 8-12 sets of 2. Week 4-Deload- would be just 55% bar weight, no bands or chains, and only 5-10 sets of 2.) Just make sure the weight is still moving fast and your technique is PERFECT on every rep.</p>
+<p>Same deal with repeated efforts.</p>
+<p>I know some guys in the system now that actually train there deload once every 6-8 weeks. Some people can handle that. I most certainly can not. I have tried and failed miserably for a long time. Thats one of those, see what works best for you kinda things.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_11" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T12:58:54Z" itemprop="datePublished">
+                    December 4, 2011, 12:58pm
+                  </time>
+<meta content="2011-12-04T12:58:54Z" itemprop="dateModified"/>
+<span itemprop="position">11</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]Diluted56 wrote:<br/>
+Hey Storm thanks for the post! Really informative!<br/>
+A question, how do you handle assistance and supplemental work?<br/>
+Do you go by feel moreon a auto-regulation type of framework, like for instance do a certain exercise for a while on a weakness then when you see ts improved you jumpto the next one and so forth? Or do you have a strict plan in terms of varying overall volume and intensities?[/quote]</p>
+<p>I look at it this way, the stuff after the main lifts should be geared towards increasing the competition total. The only way to do that is to hammer the structural weaknesses that are holding you back. I do have a plan but the exercises are different every workout and are rotated back in periodically. My basic layout for bench based on my weaknesses looks like this most of the year:</p>
+<p>After Max Effort Bench/Dynamic Effort Bench</p>
+<p>Triceps- I have a couple protocols here. I either:<br/>
+-Hit a 6rm with a barbell bench variaiton then go right into some high rep band extensions<br/>
+-Take a pair of dumbbells and establish a rep max (for example, grab the 50’s and do one all out set. The first time I did this I only got mid 30’s in terms of reps. The last time I did this, I stopped at 100) then go straight to heavy dumbbell or barbell extensions.</p>
+<p>Lats<br/>
+-Heavy Rows or Kroc Rows. Thats it. Nothing else does anything for me.</p>
+<p>Upper Back<br/>
+-Super high reps on face pulls or seated db power cleans or shrugs or whatever esle</p>
+<p>Something for rear dealts for high reps<br/>
+Curls maybe.</p>
+<p>Does this always happen? Absolutely not. Its my plan and I always make it at least through the tricep work because that is where I am weakest. If I feel good I get through all of it in a little over an hour. If I feel like shit, I’m out of there in 15-20mins after I hit my first attempt/do my first speed set.</p>
+<p>Does that help clarify?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_12" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/VTTrainer" itemprop="url"><span itemprop="name">VTTrainer</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T14:43:45Z" itemprop="datePublished">
+                    December 4, 2011,  2:43pm
+                  </time>
+<meta content="2011-12-04T14:43:45Z" itemprop="dateModified"/>
+<span itemprop="position">12</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>This is beautiful, thanks for posting!</p>
+<p>I’ve got a question, just asking for personal opinion maybe more than anything else.<br/>
+There’s always the assisted vs. non-assisted argument. All I’ve read is that lifters who aren’t using artificial recovery need to get in “extra workouts”. I’m pretty sure that I’ve also read that WS or Elite guys get in extra workout, too. Stuff like prowler push/conditioning/hill runs then call it a day.</p>
+<p>What would be the difference between the lifter’s extra workouts for recovery? I just want to know how much an unassisted lifter should be doing in general terms or what you might do on those days, STB.</p>
+<p>Thanks!</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_13" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/PlainPat" itemprop="url"><span itemprop="name">PlainPat</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T15:17:13Z" itemprop="datePublished">
+                    December 4, 2011,  3:17pm
+                  </time>
+<meta content="2011-12-04T15:17:13Z" itemprop="dateModified"/>
+<span itemprop="position">13</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>Lol, I would post my last and final question here but it seems I beat you to the making of this thread by sending another PM.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_14" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/pk0ad" itemprop="url"><span itemprop="name">pk0ad</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T17:09:11Z" itemprop="datePublished">
+                    December 4, 2011,  5:09pm
+                  </time>
+<meta content="2011-12-04T17:09:11Z" itemprop="dateModified"/>
+<span itemprop="position">14</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]StormTheBeach wrote:</p>
+<p>[quote]pk0ad wrote:<br/>
+(questions)[/quote]<br/>
+(answers)<br/>
+Does that make sense?[/quote]</p>
+<p>Yes, thanks for explaining it all. Is it reasonable to use free squats for the extra workout to work on technique, regardless of what the ME lower lift was that week?</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_15" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T17:47:24Z" itemprop="datePublished">
+                    December 4, 2011,  5:47pm
+                  </time>
+<meta content="2011-12-04T17:47:24Z" itemprop="dateModified"/>
+<span itemprop="position">15</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]pk0ad wrote:</p>
+<p>[quote]StormTheBeach wrote:</p>
+<p>[quote]pk0ad wrote:<br/>
+(questions)[/quote]<br/>
+(answers)<br/>
+Does that make sense?[/quote]</p>
+<p>Yes, thanks for explaining it all. Is it reasonable to use free squats for the extra workout to work on technique, regardless of what the ME lower lift was that week?[/quote]</p>
+<p>YES. Absolutely. You can squat every day as long as you don’t go nuts on the weight and volume. If nothing esle, doing 20+ squats with an empty bar the day after a heavy squat workout will help mobility and help your technique. Many agree it takes 10,000 hours to master a skill. That is a long ass time if you are only squatting once or twice a week.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+</meta></meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_16" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/StormTheBeach" itemprop="url"><span itemprop="name">StormTheBeach</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T18:04:15Z" itemprop="datePublished">
+                    December 4, 2011,  6:04pm
+                  </time>
+<meta content="2011-12-04T18:04:15Z" itemprop="dateModified"/>
+<span itemprop="position">16</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>[quote]VTTrainer wrote:<br/>
+This is beautiful, thanks for posting!</p>
+<p>I’ve got a question, just asking for personal opinion maybe more than anything else.<br/>
+There’s always the assisted vs. non-assisted argument. All I’ve read is that lifters who aren’t using artificial recovery need to get in “extra workouts”. I’m pretty sure that I’ve also read that WS or Elite guys get in extra workout, too. Stuff like prowler push/conditioning/hill runs then call it a day.</p>
+<p>What would be the difference between the lifter’s extra workouts for recovery? I just want to know how much an unassisted lifter should be doing in general terms or what you might do on those days, STB.</p>
+<p>Thanks![/quote]</p>
+<p>For most of the macrocycle (a years worth of training) extra workouts will be completely geared towards recovery. The only time they are more strength oriented is in the intensification block. The whole point of the block is to over load on everything and get as strong as possible. Anyway, get in as much recovery work as you can. Its going to help. An extra workout can be as simple as throwing a mini band over a door, doing 100 push downs, and then stretching out a little bit. That will take 5 mins. Little workouts like that can be done as much as you can tolerate. Stuff like you mentioned, sled drags, prowler pushes, etc are a little more stressful and will probably take some time to get used to.</p>
+<p>Personally, I try to fit in 3-4 higher stress extra workouts a week. Then I can’t even count the smaller workouts. The un-assisted lifter should be doing more recovery work because that is exactly what the “assistance” does. Speeds recovery. Drug free lifters are at a disadvantage in terms of recovery. As a 100% drug free lifter, extra workouts have been a huge part of how I have been able to progress through the Westside System. It can be extremely high stress at times and recovery needs to be prioritzed in order to not burn out.</p>
+<p>To get started doing extra workouts, I would suggest only doing one higher stress workout a week to begin with. It could look something like this:</p>
+<p>-Warm-up/mobility for 10 minutes<br/>
+-Plyo Push-ups<br/>
+-Some kid of jump variation<br/>
+-Hit a weakness with an easy exercise for 100+ reps (if your triceps are weak, do extensions, hamstrings, do leg curls, etc.)<br/>
+-Push the sled, drag a sled, rune hills, whatever. Just do something really hard for 5-10 minutes.<br/>
+-Stretch</p>
+<p>Haul ass. Try to get done in 30mins or less. Once you get a feel of how your body reacts to something like this along with your regular training, start adding in another workout if you have time. Again, wait and see how you react. I’d say give it a solid consistant month before you start piling on the extra workouts.</p>
+<p>Also, ANYTIME you get an opportunity, do some soft tissue work. Its going to help.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount">
+<span class="post-likes"></span>
+</meta></meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount"/>
+</meta></div>
+</div>
+<div class="topic-body crawler-post" id="post_17" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/arramzy" itemprop="url"><span itemprop="name">arramzy</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T19:49:10Z" itemprop="datePublished">
+                    December 4, 2011,  7:49pm
+                  </time>
+<meta content="2011-12-04T19:49:10Z" itemprop="dateModified"/>
+<span itemprop="position">17</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>How would your ME exercises change depending upon whether you compete raw, single ply or double ply?</p>
+<p>For recovery workouts what is your view on simple treadmill walking?  Do you think this aids upper body active recovery or mostly lower?</p>
+<p>What other than soft tissue and ART would you recommend to deal with tightness and poor recovery in specifically the hips?</p>
+<p>On that note… How do you approach the wreckage that happens to the hips when squatting raw with a wide stance?</p>
+<p>Again, thanks sooo much for your help.  It is very appreciated.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_18" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/Voj" itemprop="url"><span itemprop="name">Voj</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T20:10:26Z" itemprop="datePublished">
+                    December 4, 2011,  8:10pm
+                  </time>
+<meta content="2011-12-04T20:10:26Z" itemprop="dateModified"/>
+<span itemprop="position">18</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>On ME days so far I rotated exercises every two weeks. On week 1 I hit a 3RM and on week 2 I hit my max single. Do you think I can sustain this on a yearly basis or should I focus more on 3 and 5 RM’s? Btw I’m not competing but planning on to once I finish university.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_19" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/Vladamir" itemprop="url"><span itemprop="name">Vladamir</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-04T22:45:23Z" itemprop="datePublished">
+                    December 4, 2011, 10:45pm
+                  </time>
+<meta content="2011-12-04T22:45:23Z" itemprop="dateModified"/>
+<span itemprop="position">19</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>When do you think its good to start the westside method? Like what would be an adequate amount of strength? I am still relatively weak but I would consider making the switch eventually.</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+<div class="topic-body crawler-post" id="post_20" itemprop="comment" itemscope="" itemtype="http://schema.org/Comment">
+<div class="crawler-post-meta">
+<span class="creator" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="https://forums.t-nation.com/u/killerDIRK" itemprop="url"><span itemprop="name">killerDIRK</span></a>
+</span>
+<span class="crawler-post-infos">
+<time class="post-time" datetime="2011-12-05T01:17:48Z" itemprop="datePublished">
+                    December 5, 2011,  1:17am
+                  </time>
+<meta content="2011-12-05T01:17:48Z" itemprop="dateModified"/>
+<span itemprop="position">20</span>
+</span>
+</div>
+<div class="post" itemprop="text">
+<p>Hey STB: I was wondering about this as an adjunct. Can I run WestSide DE days for three weeks 50/55/60% bar weight with weight releasers @ 80%,deload week, 50/55/60% with chains @ 80% deload week, 50/55/60% with bands @ 80% and expect better results than just RUNNING 50/55/60%. I believe Louie had mentioned this in one of his 2007 or 2008 articles that the Bulgarians had used this with much success. I am looking at starting this in 10 days but wanted your take on it first.</p>
+<p>Also, thank you for your “Death to Fitness” blog. Luckily I understand it but most here in Mammoth Lakes dont : (</p>
+</div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/LikeAction" itemprop="interactionType">
+<meta content="0" itemprop="userInteractionCount"/>
+<span class="post-likes"></span>
+</meta></div>
+<div itemprop="interactionStatistic" itemscope="" itemtype="http://schema.org/InteractionCounter">
+<meta content="http://schema.org/CommentAction" itemprop="interactionType"/>
+<meta content="0" itemprop="userInteractionCount"/>
+</div>
+</div>
+</div>
+<div class="topic-body crawler-post" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<span itemprop="name"><b><a href="/t/the-westside-method-thread/172488?page=2" itemprop="url" rel="next">next page →</a></b></span>
+</div>
+</div>
+<footer class="container wrap">
+<nav class="crawler-nav">
+<ul>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="/" itemprop="url">Home </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="/categories" itemprop="url">Categories </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="/guidelines" itemprop="url">FAQ/Guidelines </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="https://www.t-nation.com/support/terms-of-use" itemprop="url">Terms of Use </a>
+</span>
+</li>
+<li itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<span itemprop="name">
+<a href="https://www.t-nation.com/support/privacy-policy" itemprop="url">Privacy Policy </a>
+</span>
+</li>
+</ul>
+</nav>
+<p class="powered-by-link">Powered by <a href="https://www.discourse.org">Discourse</a>, best viewed with JavaScript enabled</p>
+</footer>
+<footer class="footer" id="page_footer">
+<div class="dose">
+<div class="hold">
+<div class="newsletter-intro">
+<h2 class="tnation-newsletter-title">Get The T Nation Newsletters</h2>
+<h4 class="tnation-newsletter-subtitle"><span>Don't Miss Out!</span></h4>
+</div>
+<h2 class="h2 appear-delay newsletter-title">Expert Insights To Get Stronger, Gain Muscle Faster, And Take Your Lifting To The Next Level</h2>
+<div class="klaviyo-form-Tmbhdn"></div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="footer-logo col-sm-6 col-xs-12"><a class="footer-logo" href="https://www.t-nation.com"></a></div>
+<div class="smIcons col-sm-6 col-xs-12">
+<p>Follow Us</p>
+<div class="separator"></div>
+<ul>
+<li><a aria-label="Follow T Nation on Facebook" class="facebook" href="https://www.facebook.com/OfficialTestosteroneNation" name="T Nation Facebook Page" rel="noopener noreferrer" target="_blank"></a></li>
+<li><a aria-label="Follow T Nation on Twitter" class="twitter" href="https://twitter.com/t_nation" name="T Nation Twitter Page" rel="noopener noreferrer" target="_blank"></a></li>
+<li><a aria-label="Follow T Nation on YouTube" class="youtube" href="http://www.youtube.com/user/TestosteroneNation" name="T Nation YouTube Channel" rel="noopener noreferrer" target="_blank"></a></li>
+<li><a aria-label="Follow T Nation on Instagram" class="instagram" href="http://instagram.com/testosteronenation" name="T Nation Instagram Page" rel="noopener noreferrer" target="_blank"></a></li>
+<li><a aria-label="Follow T Nation on Pinterest" class="pinterest" href="https://www.pinterest.com/officialtnation/" name="T Nation Pinteret Page" rel="noopener noreferrer" target="_blank"></a></li>
+<li><a aria-label="Follow T Nation Articles RSS Feed" class="rss" href="http://rss.t-nation.com/t-nation-articles" name="T Nation Articles RSS Feed" rel="noopener noreferrer" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+<div class="row footer-col">
+<div class="col-sm-5 col-xs-12">
+<ul>
+<li>© 2024 T Nation LLC. <nobr>All Rights Reserved.</nobr></li>
+<li><a href="https://www.t-nation.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://www.t-nation.com/cookie-policy">Cookie Policy</a></li>
+<li><a href="https://www.t-nation.com/terms-of-use">Terms of Use</a></li>
+</ul>
+</div>
+<div class="col-sm-3 col-xs-12">
+<ul>
+<li><a href="https://www.t-nation.com">Home</a></li>
+<li><a href="https://www.t-nation.com/all-articles">Articles</a></li>
+<li><a href="https://forums.t-nation.com">Forums</a></li>
+<li><a href="https://www.t-nation.com/videos">Videos</a></li>
+<li><a href="https://store.t-nation.com">Programs</a></li>
+<li><a href="https://www.t-nation.com/store">Supplements</a></li>
+</ul>
+</div>
+<div class="col-sm-4 col-xs-12">
+<ul>
+<li><!--email_off--><a href="mailto:fb@t-nation.com">Feedback</a><!--/email_off--></li>
+<li><a href="https://www.t-nation.com/support/editorial-guidelines">Editorial Guidelines</a></li>
+<li><!--email_off--><a href="mailto:articles@t-nation.com">Article Submission</a><!--/email_off--></li>
+<li><!--email_off--><a href="mailto:ads@t-nation.com">Advertising on <nobr>T Nation</nobr></a><!--/email_off--></li>
+<!-- OneTrust Do Not Sell & Cookie Setting Button - Removed OneTrust footer link per NOYB -->
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="testosterone-nation"><img alt="Testosterone Nation" src="https://cdck-file-uploads-global.s3.dualstack.us-west-2.amazonaws.com/tnation/uploads/default/original/4X/1/7/a/17a7922610e060e36447ec680c0f8b4c346ec71c.svg" style="max-width: 100%; max-height: 100%;"/></div>
+</div>
+</div>
+</footer>
+<!-- AccessiBe T Nation Forums -->
+<!-- AddThis : Go to www.addthis.com/dashboard to customize your tools
+<script type="text/javascript" async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-550c66387b1bf162"></script> 
+-->
+<script data-theme-id="5" defer="" nonce="K7CXVL8fhonTi2uUF4yucooLz" src="https://sea2.discourse-cdn.com/tnation/theme-javascripts/2f526fb307138f25cee739a89776a7b363065bbe.js?__ws=forums.t-nation.com"></script>
+</body>
+</html>
